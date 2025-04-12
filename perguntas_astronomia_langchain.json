@@ -1122,5 +1122,85 @@
   {
     "pergunta": "Qual a diferença fundamental entre uma nebulosa de emissão, uma nebulosa de reflexão e uma nebulosa escura?",
     "resposta": "Todas são nuvens interestelares de gás e poeira, mas diferem na forma como interagem com a luz: 1) Nebulosa de Emissão: Brilha intensamente porque seu gás (principalmente hidrogênio) é ionizado pela radiação ultravioleta de estrelas jovens e quentes próximas, emitindo sua própria luz (frequentemente avermelhada). Ex: Nebulosa de Órion. 2) Nebulosa de Reflexão: Brilha ao refletir a luz de estrelas próximas. A poeira na nuvem espalha a luz azul de forma mais eficiente, por isso costumam parecer azuladas. Ex: Nebulosa em torno das Plêiades. 3) Nebulosa Escura: É uma nuvem tão densa de gás e poeira que bloqueia a luz de estrelas ou nebulosas brilhantes localizadas atrás dela, aparecendo como uma silhueta escura no céu. Ex: Nebulosa Cabeça de Cavalo."
+  },
+  {
+    "pergunta": "O que causa o fenômeno conhecido como 'airglow' ou luminescência atmosférica, que faz o céu noturno nunca ser totalmente escuro?",
+    "resposta": "O airglow é uma emissão tênue de luz pela atmosfera superior da Terra. É causado por reações químicas entre átomos e moléculas excitados pela radiação solar durante o dia (como fotoionização e fotodissociação) que liberam energia na forma de luz visível à noite. Diferente das auroras, o airglow ocorre globalmente e é muito mais fraco."
+  },
+  {
+    "pergunta": "O que é a 'linha de gelo' (frost line) na formação de sistemas planetários e qual sua importância para a composição dos planetas?",
+    "resposta": "A linha de gelo é a distância da estrela central em uma nebulosa protoplanetária além da qual compostos voláteis como água, amônia e metano podem condensar em grãos de gelo sólido. Dentro dessa linha, é quente demais para o gelo se formar. Isso explica por que os planetas internos (como Mercúrio, Vênus, Terra, Marte) são rochosos, enquanto os planetas externos (como Júpiter, Saturno, Urano, Netuno) são gigantes gasosos ou de gelo, pois puderam acumular muito mais material sólido (incluindo gelo) em sua formação."
+  },
+  {
+    "pergunta": "O que é velocidade de escape e por que ela é diferente para cada planeta ou corpo celeste?",
+    "resposta": "Velocidade de escape é a velocidade mínima que um objeto precisa ter para escapar completamente da atração gravitacional de um corpo celeste (como um planeta ou lua) sem propulsão adicional. Ela depende da massa e do raio do corpo celeste: quanto maior a massa e menor o raio, maior a velocidade de escape. Por exemplo, a velocidade de escape da Terra é de cerca de 11,2 km/s, enquanto a da Lua é de apenas 2,4 km/s."
+  },
+  {
+    "pergunta": "Quais são os principais objetivos do Programa Artemis da NASA?",
+    "resposta": "O Programa Artemis tem como objetivos principais estabelecer uma presença humana sustentável na Lua, incluindo uma base lunar, aprender a viver e trabalhar em outro mundo, e usar a Lua como um trampolim para futuras missões tripuladas a Marte. Ele visa levar a primeira mulher e a próxima pessoa à superfície lunar, além de promover a ciência lunar e desenvolver novas tecnologias espaciais."
+  },
+  {
+    "pergunta": "Como a Teoria da Relatividade de Einstein, especificamente a dilatação do tempo, é crucial para o funcionamento correto do sistema GPS?",
+    "resposta": "Os satélites GPS orbitam a Terra em alta velocidade e a uma altitude onde a gravidade é mais fraca. A Relatividade Especial prevê que seus relógios atômicos a bordo atrasam em relação aos da Terra devido à sua velocidade. A Relatividade Geral prevê que seus relógios adiantam por estarem em um campo gravitacional mais fraco. O efeito da Relatividade Geral é maior. Sem corrigir esses efeitos combinados (uma diferença líquida de cerca de 38 microssegundos por dia), os erros de posicionamento do GPS acumulariam rapidamente, tornando o sistema inútil."
+  },
+  {
+    "pergunta": "O que foi o objeto interestelar 'Oumuamua e por que sua passagem pelo Sistema Solar foi tão intrigante para os cientistas?",
+    "resposta": "'Oumuamua foi o primeiro objeto interestelar detectado passando pelo nosso Sistema Solar, em 2017. Sua forma extremamente alongada (semelhante a um charuto ou panqueca), sua rotação caótica e uma leve aceleração não gravitacional (afastando-se do Sol mais rápido do que o esperado apenas pela gravidade) o tornaram muito diferente de asteroides e cometas conhecidos, gerando debates sobre sua natureza e origem."
+  },
+  {
+    "pergunta": "O que são neutrinos solares e o que a sua detecção na Terra nos revela sobre os processos nucleares no interior do Sol?",
+    "resposta": "Neutrinos solares são partículas subatômicas quase sem massa e sem carga elétrica, produzidas em grande quantidade pelas reações de fusão nuclear (principalmente a fusão de hidrogênio em hélio) no núcleo do Sol. Como interagem muito fracamente com a matéria, eles escapam do Sol quase instantaneamente e viajam até a Terra. Detectá-los (o que é muito difícil) confirma diretamente que a fusão nuclear é a fonte de energia do Sol e permite estudar as condições no seu núcleo."
+  },
+  {
+    "pergunta": "O que significa o 'albedo' de um planeta ou lua e como ele influencia a temperatura superficial?",
+    "resposta": "Albedo é a medida da refletividade de uma superfície. É a fração da radiação solar incidente que é refletida de volta para o espaço. Um albedo de 0 significa que a superfície absorve toda a luz (como asfalto), enquanto um albedo de 1 significa que reflete toda a luz (como neve fresca). Planetas ou luas com albedo alto (como Vênus ou Encélado) refletem mais luz solar e tendem a ser mais frios do que seriam se absorvessem mais luz. Planetas com albedo baixo absorvem mais energia e tendem a ser mais quentes."
+  },
+  {
+    "pergunta": "O que é o efeito Poynting-Robertson e como ele afeta pequenas partículas de poeira orbitando uma estrela?",
+    "resposta": "O efeito Poynting-Robertson é um processo pelo qual a radiação solar causa uma força de arrasto em pequenas partículas de poeira (micrometeoroides) que orbitam uma estrela. A poeira absorve a luz solar e a reemite, mas devido ao seu movimento orbital, essa reemissão não é uniforme em todas as direções do ponto de vista da estrela. Isso resulta em uma pequena força que se opõe ao movimento orbital da partícula, fazendo com que ela perca energia e espirale lentamente em direção à estrela ao longo de milhões de anos. É um fator importante na limpeza de poeira em sistemas planetários maduros."
+  },
+  {
+    "pergunta": "Por que a magnetosfera de Júpiter é tão imensa e poderosa em comparação com a da Terra?",
+    "resposta": "A magnetosfera de Júpiter é a maior estrutura contínua do Sistema Solar (se estendesse visivelmente, pareceria maior que a Lua cheia no nosso céu) e seu campo magnético é quase 20.000 vezes mais forte que o da Terra na fonte. Isso se deve à combinação de três fatores: (1) a rotação extremamente rápida de Júpiter (um dia dura menos de 10 horas), (2) um grande núcleo condutor em seu interior, e (3) a presença de uma camada espessa de hidrogênio metálico líquido (um excelente condutor elétrico) que gera um poderoso efeito dínamo."
+  },
+  {
+    "pergunta": "O que é a 'linha de gelo' (frost line) e qual seu papel na formação dos diferentes tipos de planetas no Sistema Solar?",
+    "resposta": "A 'linha de gelo' é a distância da estrela central (no nosso caso, o Sol) dentro de um disco protoplanetário onde as temperaturas se tornam baixas o suficiente para que compostos voláteis como água, amônia e metano possam condensar em gelo sólido. Dentro desta linha, mais perto do Sol, apenas rochas e metais podiam se solidificar, formando os planetas rochosos (Mercúrio, Vênus, Terra, Marte). Além da linha de gelo, havia muito mais material sólido (incluindo gelos) disponível, permitindo que os núcleos planetários crescessem muito mais e acumulassem grandes atmosferas de hidrogênio e hélio, formando os gigantes gasosos e de gelo (Júpiter, Saturno, Urano, Netuno)."
+  },
+  {
+    "pergunta": "Como os impactos de asteroides e cometas moldaram a superfície da Lua e de outros corpos sem atmosfera significativa?",
+    "resposta": "Sem uma atmosfera espessa para queimar objetos menores ou clima para erodir feições, corpos como a Lua, Mercúrio e muitos asteroides preservam um registro extenso de impactos ao longo de bilhões de anos. Esses impactos criam crateras de vários tamanhos, desde microcrateras até bacias gigantescas. Os impactos também pulverizam a rocha superficial, criando uma camada de poeira e detritos chamada regolito. Grandes impactos podem derreter rocha, formar planícies de lava (como os 'mares' lunares) e até mesmo alterar a rotação ou órbita de corpos menores."
+  },
+  {
+    "pergunta": "Qual a relação entre as erupções solares (solar flares) e as tempestades geomagnéticas na Terra?",
+    "resposta": "Erupções solares são explosões intensas de radiação na superfície do Sol. Frequentemente, elas estão associadas a Ejeções de Massa Coronal (CMEs), que são grandes nuvens de plasma e campo magnético lançadas ao espaço. Se uma CME atinge a Terra, ela interage com o campo magnético do nosso planeta (magnetosfera), comprimindo-o e transferindo energia. Isso pode causar uma tempestade geomagnética, que se manifesta como auroras intensas e pode perturbar redes elétricas, sistemas de comunicação e satélites."
+  },
+  {
+    "pergunta": "O que é uma anã branca e o que acontecerá com ela ao longo de trilhões de anos?",
+    "resposta": "Uma anã branca é o núcleo remanescente de uma estrela de baixa a média massa (como o Sol) após ela ter esgotado seu combustível nuclear e expelido suas camadas externas (formando uma nebulosa planetária). É um objeto extremamente denso, composto principalmente de carbono e oxigênio. Ela não realiza mais fusão nuclear e brilha apenas devido ao calor residual. Ao longo de trilhões de anos, uma anã branca irá esfriar gradualmente, tornando-se cada vez mais fraca até se tornar uma hipotética 'anã negra', um objeto frio e escuro."
+  },
+  {
+    "pergunta": "Por que muitas luas menores dos planetas gigantes, como Júpiter e Saturno, têm órbitas irregulares e retrógradas?",
+    "resposta": "As luas 'regulares' geralmente se formaram a partir de um disco de gás e poeira ao redor do planeta, resultando em órbitas quase circulares, equatoriais e no mesmo sentido da rotação do planeta (prógradas). Já as luas 'irregulares' são geralmente objetos menores (asteroides ou corpos do Cinturão de Kuiper) que foram capturados gravitacionalmente pelo planeta gigante em algum momento do passado. O processo de captura é complexo e muitas vezes resulta em órbitas distantes, inclinadas, excêntricas (não circulares) e frequentemente retrógradas (sentido oposto à rotação do planeta)."
+  },
+  {
+    "pergunta": "Como funciona o sistema de pouso 'sky crane' (guindaste aéreo) usado pelos rovers Curiosity e Perseverance em Marte?",
+    "resposta": "O 'sky crane' foi uma solução inovadora para pousar rovers grandes e pesados em Marte. Após a entrada atmosférica com escudo térmico e paraquedas, a fase final do pouso envolve uma plataforma a jato (o 'sky crane') que paira sobre a superfície usando retrofoguetes. O rover fica suspenso abaixo desta plataforma por cabos. O 'sky crane' desce o rover suavemente até que suas rodas toquem o solo. Uma vez confirmado o pouso, os cabos são cortados e a plataforma a jato voa para longe para cair a uma distância segura, deixando o rover pronto para iniciar sua missão."
+  },
+  {
+    "pergunta": "Qual foi a importância das observações de Galileu Galilei com seu telescópio para a mudança do modelo geocêntrico para o heliocêntrico?",
+    "resposta": "As observações telescópicas de Galileu no início do século XVII forneceram evidências cruciais contra o modelo geocêntrico (Terra no centro) e a favor do heliocêntrico (Sol no centro) de Copérnico. Ele observou: 1) Luas orbitando Júpiter (mostrando que nem tudo orbitava a Terra); 2) Fases de Vênus (semelhantes às da Lua, o que só é explicado se Vênus orbita o Sol); 3) Crateras e montanhas na Lua (mostrando que não era uma esfera perfeita e divina); 4) Manchas solares (mostrando imperfeições no Sol). Essas descobertas desafiaram dogmas antigos e apoiaram fortemente a ideia de que a Terra era apenas mais um planeta orbitando o Sol."
+  },
+  {
+    "pergunta": "Além de procurar por água líquida, que outros tipos de 'bioassinaturas' os cientistas procuram em exoplanetas?",
+    "resposta": "Bioassinaturas são quaisquer sinais (substâncias, fenômenos ou padrões) cuja origem mais provável seja a vida. Além da água líquida, os cientistas procuram por gases atmosféricos que, na Terra, são produzidos em grande parte por organismos vivos e que dificilmente existiriam em conjunto sem biologia. Exemplos incluem a presença simultânea de oxigênio (O2) e metano (CH4). Outras possíveis bioassinaturas incluem pigmentos específicos na superfície (como o 'red edge' da vegetação terrestre, embora possa ter outras causas) ou padrões complexos de variação atmosférica que não sejam facilmente explicados por processos geológicos ou químicos."
+  },
+  {
+    "pergunta": "O que foram as primeiras estrelas (População III) e como elas eram diferentes das estrelas atuais?",
+    "resposta": "As estrelas de População III foram a primeira geração de estrelas a se formar no universo, cerca de algumas centenas de milhões de anos após o Big Bang. Acredita-se que elas eram compostas quase exclusivamente de hidrogênio e hélio, os únicos elementos criados em abundância no Big Bang. Por não terem elementos mais pesados ('metais', na linguagem astronômica), elas teriam sido muito diferentes das estrelas atuais (População I, como o Sol) e das mais antigas em nossa galáxia (População II). Teoriza-se que as estrelas Pop III eram extremamente massivas (centenas de vezes a massa do Sol), muito quentes, luminosas e de vida curta, explodindo como supernovas que enriqueceram o universo primitivo com os primeiros elementos pesados."
+  },
+  {
+    "pergunta": "O que é o 'Grande Atrator' e qual seu efeito observado na nossa e em outras galáxias próximas?",
+    "resposta": "O Grande Atrator é uma anomalia gravitacional no espaço intergaláctico, localizado no centro do Superaglomerado Laniakea (do qual nossa Via Láctea faz parte), a centenas de milhões de anos-luz de distância. Ele representa uma concentração massiva de matéria (visível e escura) cuja gravidade afeta o movimento de centenas de milhares de galáxias, incluindo a nossa. Observa-se que a Via Láctea, Andrômeda e outras galáxias do Grupo Local estão se movendo em direção a essa região a centenas de quilômetros por segundo, além do movimento devido à expansão do universo. A natureza exata e a massa total do Grande Atrator ainda são áreas de pesquisa ativa."
   }
 ]

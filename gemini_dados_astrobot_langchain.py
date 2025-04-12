@@ -101,7 +101,7 @@ Exemplo de Saída Esperada (APENAS O JSON):
 }}
 ]
 Tarefa:
-Gere 10 NOVAS perguntas e respostas sobre estrelas, a Lua, a Terra, o sistema solar, astronomia , os planetas em detalhes, luas, astronáutica ou exploração espacial que NÃO estão na lista fornecida, seguindo ESTRITAMENTE o formato JSON de lista de objetos.
+Gere 10 NOVAS perguntas e respostas sobre estrelas, a Lua, a Terra, o sistema solar, astronomia , os planetas do sistema solar em detalhes, luas, astronáutica ou exploração espacial que COMPLEMENTEM a lista fornecida, seguindo ESTRITAMENTE o formato JSON de lista de objetos.
 
 """
 
