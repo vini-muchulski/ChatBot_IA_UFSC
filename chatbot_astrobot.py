@@ -12,6 +12,8 @@ Original file is located at
 !pip install chatterbot chatterbot_corpus spacy==3.7.4 -q
 !python -m spacy download pt_core_news_sm -q
 
+"""--------------------"""
+
 import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 
@@ -19,8 +21,6 @@ import json
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from chatterbot.languages import POR
-
-"""--------------------"""
 
 nome_arquivo_json = 'perguntas_astronomia_langchain.json'
 conversa_para_treino = []
@@ -59,7 +59,7 @@ chatbot_astro = ChatBot(
         {
             'import_path': 'chatterbot.logic.BestMatch',
             'default_response': 'Desculpe, não entendi bem. Poderia reformular?',
-            'maximum_similarity_threshold': 0.90
+            'maximum_similarity_threshold': 0.9
         }
     ],
     tagger_language=POR
@@ -85,7 +85,3 @@ while True:
     except Exception as e:
         print(f"Ocorreu um erro inesperado durante a conversa: {e}")
         break
-
-# Para limpar o banco de dados após a execução (se necessário para testes)
-# chatbot_astro.storage.drop()
-# print("Banco de dados do chatbot limpo.")
